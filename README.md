@@ -1,5 +1,5 @@
 # Library-Management- 
-Hello Everyone....In this project i have create a project on library management system....
+Hello Everyone....In this project i have create a project on library management systm..
 This repository contains the source code for a Library Management System (LMS), a software application designed to automate and streamline library operations. The system facilitates tasks such as book cataloging, circulation management, user registration. It aims to enhance the efficiency of library processes and improve the overall user experience for librarians.
 
 Key Features:
